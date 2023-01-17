@@ -1,0 +1,16 @@
+body  {
+    color: #2E86C1;
+    background-color: #6fdc95;
+}
+
+.stButton>button {
+    color: rgb(181, 6, 6);
+    background-color: #60b1eb;
+    border-radius: 60%;
+    height: 8em;
+    width: 8em;
+}
+
+
+
+
